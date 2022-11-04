@@ -253,7 +253,7 @@ python scripts/train.py \
 ```
 python scripts/train.py \
 --dataset_type=celebs_seg_to_face \
---exp_dir=/path/to/experiment \
+--exp_dir=/mnt/SSD4TB/tamaki/pixel2style2pixel/experiments/ \
 --workers=8 \
 --batch_size=8 \
 --test_batch_size=8 \

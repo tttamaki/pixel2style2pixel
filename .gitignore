@@ -1,0 +1,4 @@
+__pycache__/
+inversion_images/
+pretrained_models/
+experiments/
